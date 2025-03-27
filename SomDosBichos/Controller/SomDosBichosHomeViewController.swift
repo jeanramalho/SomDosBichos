@@ -11,6 +11,7 @@ class SomDosBichosHomeViewController: UIViewController {
     
     private let contentView: SomDosBichosView = SomDosBichosView()
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         setup()
